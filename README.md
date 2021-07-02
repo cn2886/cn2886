@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cn2886 | Clarence 
 - 👀 I’m interested in this new found interest in Python.
 - 🌱 I’m currently learning Python, Visualisation, and how to get a life!
-- 💞️ I’m looking to collaborate on github and hope to solve problem.
+- 💞️ I’m looking to collaborate on github and hope to solve problem; Python to watch for cyber scam (???).
 - 📫 How to reach me - at the moment, github :)
 
 <!---
